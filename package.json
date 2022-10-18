@@ -1,0 +1,39 @@
+{
+  
+  "version": "1.0.0",
+  
+  "description": "",
+  
+  "main": "index.js",
+  
+  "directories": {
+  
+    
+  "test": "test"
+  
+  },
+  
+  "scripts": {
+  
+    
+  "test": "mocha --timeout 60000"
+  
+  },
+  
+  "author": "",
+  
+  "license": "ISC",
+  
+  "dependencies": {
+  
+    
+  "chai": "^4.3.6",
+  
+    
+  "chromedriver": "^106.0.1",
+  
+    
+  "mocha": "^10.0.0"
+  
+  }
+}
